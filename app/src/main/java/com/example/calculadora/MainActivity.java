@@ -163,7 +163,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-
     private void atualizarDisplay(String texto){
         String textDisplay = display.getText().toString();
         textDisplay = textDisplay + texto;
